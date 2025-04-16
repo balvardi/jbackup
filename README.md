@@ -1,7 +1,7 @@
-# JBackup - Joomla 5 Backup Component
+# JBackup - Joomla 5 Backup Component Created By Dima Group
 
 <p align="center">
-  <img src="https://via.placeholder.com/150?text=JBackup" alt="JBackup Logo" width="150" height="150">
+  <img src="https://raw.githubusercontent.com/balvardi/jbackup/main/assets/jbackup-logo.png" alt="JBackup Logo" width="150">
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ JBackup is a comprehensive backup solution for Joomla 5 websites. This component
 
 ## Installation
 
-1. Download the latest release from the [releases page](https://github.com/yourusername/jbackup/releases)
+1. Download the latest release from the [releases page](https://github.com/balvardi/jbackup/releases) or use the ZIP file in this repository
 2. Go to Joomla administrator → Extensions → Install
 3. Upload and install the ZIP file
 4. Access the component from the Components menu → JBackup
@@ -95,17 +95,15 @@ JBackup is a comprehensive backup solution for Joomla 5 websites. This component
 
 ## Screenshots
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x450?text=JBackup+Dashboard" alt="JBackup Dashboard" width="800">
-</p>
+*Coming soon*
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x450?text=Create+Backup" alt="Create Backup" width="800">
-</p>
+## Roadmap
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x450?text=Backup+List" alt="Backup List" width="800">
-</p>
+- Cloud storage integration (Google Drive, Dropbox, etc.)
+- Email notifications for backup status
+- Frontend component for user backups
+- Backup encryption options
+- Multi-site backup support
 
 ## Contributing
 
@@ -117,14 +115,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Commit your changes (`git commit -m 'Add some feature'`)
 5. Push to the branch (`git push origin feature/your-feature-name`)
 6. Open a Pull Request
-
-## Roadmap
-
-- Cloud storage integration (Google Drive, Dropbox, etc.)
-- Email notifications for backup status
-- Frontend component for user backups
-- Backup encryption options
-- Multi-site backup support
 
 ## License
 
@@ -176,7 +166,7 @@ JBackup یک راه‌حل جامع پشتیبان‌گیری برای وب‌س
 
 ## نصب
 
-1. آخرین نسخه را از [صفحه انتشارها](https://github.com/yourusername/jbackup/releases) دانلود کنید
+1. آخرین نسخه را از [صفحه انتشارها](https://github.com/balvardi/jbackup/releases) دانلود کنید یا از فایل ZIP موجود در این مخزن استفاده کنید
 2. به بخش مدیریت جوملا بروید → افزونه‌ها → نصب
 3. فایل ZIP را آپلود و نصب کنید
 4. به کامپوننت از منوی کامپوننت‌ها → JBackup دسترسی پیدا کنید
@@ -219,6 +209,10 @@ JBackup یک راه‌حل جامع پشتیبان‌گیری برای وب‌س
    - تنظیم فرکانس پشتیبان‌گیری خودکار
    - انتخاب نوع پشتیبان‌گیری خودکار
 
+## تصاویر
+
+*به زودی*
+
 ## نقشه راه
 
 - ادغام با فضای ذخیره‌سازی ابری (گوگل درایو، دراپ باکس و غیره)
@@ -243,22 +237,22 @@ JBackup یک راه‌حل جامع پشتیبان‌گیری برای وب‌س
 این پروژه تحت مجوز GNU General Public License v2.0 یا بالاتر منتشر شده است - برای جزئیات به فایل [LICENSE](LICENSE) مراجعه کنید.
 ```
 
-This README file is comprehensive and ready for your GitHub repository. It includes:
+### Next Steps for Your Repository
 
-1. **Bilingual Content**: Both English and Persian sections to reach a wider audience
-2. **Detailed Features**: Complete list of component capabilities
-3. **Clear Instructions**: Step-by-step guides for installation and usage
-4. **Visual Elements**: Placeholder for screenshots (you can replace these with actual screenshots later)
-5. **Contributing Guidelines**: Instructions for other developers who want to contribute
-6. **Roadmap**: Future plans for the component
-7. **Professional Structure**: Well-organized with proper Markdown formatting
+Now that I've seen your GitHub repository, here are some suggestions to enhance it:
 
-When you publish this on GitHub, you might want to:
-1. Add actual screenshots of your component in action
-2. Update the placeholder URLs with your actual GitHub username
-3. Include a LICENSE file in your repository (GNU GPL v2 or later as mentioned)
-4. Consider adding a CONTRIBUTING.md file with more detailed contribution guidelines
+1. **Add a Logo**: Create a simple logo for JBackup and place it in an `assets` folder in your repository. Update the README to point to this logo.
 
-This README will help users understand what your component does and how to use it effectively.
+2. **Create a Release**: Set up an official release for your component with proper versioning (v1.0.0-beta).
+
+3. **Add Screenshots**: Take screenshots of your component in action and add them to the README to help users understand how it works.
+
+4. **Add a LICENSE File**: Add a GNU GPL v2.0 or later license file to your repository.
+
+5. **Create Documentation**: Consider adding more detailed documentation in a `docs` folder.
+
+6. **Set Up Issue Templates**: Add issue templates to help users report bugs or request features in a structured way.
+
+The README I've provided is ready to use and will give your repository a professional appearance while providing comprehensive information about your component.
 ```
 
